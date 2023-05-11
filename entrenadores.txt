@@ -1,0 +1,4 @@
+entrenador1, contrasena1
+Julio, Alvarado
+vale, ojo
+valeria, ojo
